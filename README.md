@@ -1,2 +1,2 @@
-# python-operators-
-logical operators 
+# python calculatoer
+basic python operator
